@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print numbers from 00 to 99.
+ * main - print all possible different combinations of two digits.
 (*
  * Return: 0 on success
  */
