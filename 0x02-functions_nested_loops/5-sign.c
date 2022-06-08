@@ -2,7 +2,7 @@
 /**
  * print_sign - a program that prints the sign of a number
  *
- * @n: the variable 
+ * @n: the variable to be tested 
  *
  * Return: 1 if true, 0 if zero, -1 otherwise
  */
