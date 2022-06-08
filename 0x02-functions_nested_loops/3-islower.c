@@ -4,7 +4,7 @@
  *
  * @c: variable to be checked whether it is lowercase
  *
- * Return 1 if lowercase, otherwise return 0
+ * Return: 1 if lowercase, otherwise 0 .
  */
 int _islower(int c)
 {
@@ -12,8 +12,7 @@ int _islower(int c)
 	{
 		return (1);
 	}
-
-	else 
+	else
 	{
 		return (0);
 	}
