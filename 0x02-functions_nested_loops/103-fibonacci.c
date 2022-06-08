@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - a program that prints the sum of the even-valued terms, 
- * followed by a new line by considering the terms in the fibonacci sequence 
- * whose value does not exceed 4,000,000
+ * main - a program that prints the sum of even valued terms
+ * followed by a new line
+ * considering the term in the f.s whose value exceeds 4000000
  *
  * Return: 0
  */
