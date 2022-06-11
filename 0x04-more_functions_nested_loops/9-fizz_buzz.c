@@ -2,8 +2,9 @@
 
 /**
  * main - Fizz Buzz code
+ * multiples of 3 and 5
  *
- * Return: void
+ * Return: void fizz if 3, buzz if 5
  */
 
 int main(void)

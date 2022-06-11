@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_triangle - check for a digit
+ * print_triangle - a prog that prints a traingle
+ * followed by a new line
  * @size : integer type
  * Return:void
  */
