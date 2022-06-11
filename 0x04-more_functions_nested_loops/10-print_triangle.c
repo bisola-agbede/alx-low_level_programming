@@ -3,7 +3,9 @@
 /**
  * print_triangle - a prog that prints a traingle
  * followed by a new line
+ *
  * @size : integer type
+ *
  * Return:void
  */
 
