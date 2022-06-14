@@ -1,18 +1,18 @@
 #include "main.h"
-#include <string.h>
+#include<string.h>
 
 /**
- * _strlen - returns the lenth of a string
+ * _strlen - return length of string
+ **@s: pointer to char
  *
- * @s: A string to be tested
- *
- * Return: Always 0
+ * Return: return an int
  */
 
 int _strlen(char *s)
 {
-	int len;
+	int length;
 
-	_putchar(strlen(s));
-	return (0);
+	length = strlen(s);
+
+	return (length);
 }
