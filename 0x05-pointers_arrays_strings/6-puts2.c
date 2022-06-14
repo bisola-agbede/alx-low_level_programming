@@ -3,7 +3,7 @@
 
 /**
  *puts2 - prints every other character of a string
- starting withbthe first character
+ *starting withbthe first character
  **@str: pointer to char
  */
 
