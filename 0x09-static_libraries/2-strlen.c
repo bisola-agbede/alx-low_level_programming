@@ -1,13 +1,15 @@
 #include "main.h"
 /**
-*_islower - controls if a character is in lowercase
-*@c: character to be verified
-*Return: return 0 or 1
-*/
-int _islower(int c)
+ *_strlen - returns the length of a string
+ * @s: string
+ *Return: returns lenght;
+ */
+int _strlen(char *s)
 {
-if (c >= 'a' && c <= 'z')
-return (1);
+int count, inc;
+inc = 0;
+for (count = 0; s[count] != '\0'; count++)
+inc++;
 
-return (0);
+return (inc);
 }
